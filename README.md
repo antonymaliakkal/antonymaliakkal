@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antony Maliakkal</h1>
-<h3 align="center">A passionate Web Developer, Programmer & AL/ML Student from India</h3>
+<h3 align="center">A passionate web developer, programmer & AL/ML student from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
